@@ -1,0 +1,64 @@
+[
+  {
+    "deviceId": "dev-7c4a02b2-12a0-4fee-96b9-90776e75f4ef",
+    "name": "LAPTOP-TCD6Q839-电脑",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAysqgPt7X3UFUFlwsUdH3\n+eCLriBO6arIB+61CM9ZEw3et4WAUKax2pemRzX+j4Ei4uA8Yv1UDgVvcJEXTXbQ\nMY/vKI5Dg8z/guT6a5Iu2w3gtmcimfffrS/32xaYT3XfxGgtNCAT8Nez+rCymSmF\n0WtISgMaCsLHeB5BiUga+0bJ5HwkwcUYoNRWZVu6O4QfELV+CsAvbgkVc+pNifF8\n/pt96V/UjU6xj2CPS56Ei7BnqydxmigDqXiZRNBcbem3NSyrJGcm9CpgzOaYqhUY\nEOzvaxo4Mtdr5jnjww80Bn8MlPqMc5oXdcZOBeLARACcPzPl9jEukLIv+laTbTr6\nrwIDAQAB\n-----END PUBLIC KEY-----\n",
+    "fingerprint": "39C9:B90D:7E4C:D315",
+    "lastSeen": 1793252007553,
+    "playlists": [
+      {
+        "name": "music-test",
+        "trackCount": 4
+      }
+    ],
+    "library": [
+      {
+        "file": "C:\\Users\\liule\\Desktop\\Computer-controlled website\\bell-agent\\music-test\\华语群星 - 第三套全国小学生广播体操_七彩阳光 (片段版)_L.ogg",
+        "name": "华语群星 - 第三套全国小学生广播体操_七彩阳光 (片段版)_L",
+        "folder": "music-test"
+      },
+      {
+        "file": "C:\\Users\\liule\\Desktop\\Computer-controlled website\\bell-agent\\music-test\\周游格 - 小英雄大肚腩_L.ogg",
+        "name": "周游格 - 小英雄大肚腩_L",
+        "folder": "music-test"
+      },
+      {
+        "file": "C:\\Users\\liule\\Desktop\\Computer-controlled website\\bell-agent\\music-test\\拾趣儿歌 - 今天开始我要自己上厕所_L.ogg",
+        "name": "拾趣儿歌 - 今天开始我要自己上厕所_L",
+        "folder": "music-test"
+      },
+      {
+        "file": "C:\\Users\\liule\\Desktop\\Computer-controlled website\\bell-agent\\music-test\\鲁士郎 - 番茄狂想曲_L.ogg",
+        "name": "鲁士郎 - 番茄狂想曲_L",
+        "folder": "music-test"
+      }
+    ],
+    "musicDirs": [
+      "C:\\Users\\liule\\Desktop\\Computer-controlled website\\bell-agent\\music-test"
+    ],
+    "tasks": [],
+    "history": [],
+    "settings": {
+      "musicDirs": [
+        "C:\\Users\\liule\\Desktop\\Computer-controlled website\\bell-agent\\music-test"
+      ],
+      "autoStart": false,
+      "cloudUrl": "https://affects-albums-cap-accessibility.trycloudflare.com",
+      "launcherConfigured": true
+    },
+    "status": {
+      "playing": false,
+      "state": "stopped",
+      "currentTrack": "周游格 - 小英雄大肚腩_L",
+      "currentFolder": "music-test",
+      "position": 0,
+      "duration": 192.6,
+      "volume": 5,
+      "muted": false,
+      "audioCapable": true,
+      "playlistSize": 4,
+      "index": 1,
+      "nextBellAt": null
+    }
+  }
+]

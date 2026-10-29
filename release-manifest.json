@@ -1,0 +1,20 @@
+{
+  "createdAt": "2026-10-28T11:04:10.775Z",
+  "target": "Windows 10/11 x64; NOT Windows 7",
+  "protocolVersion": 2,
+  "runtime": {
+    "version": "v24.14.0",
+    "arch": "x64",
+    "platform": "win32"
+  },
+  "binaries": [
+    {
+      "name": "cloudflared.exe",
+      "sha256": "411b16d40c8d872243efeb52c550053d00af0a8a97fbb32e730fb8aba429eaa8"
+    },
+    {
+      "name": "node.exe",
+      "sha256": "63c259c81e5d472b5f11c8d506070130cb04a1ecf84b80377a34ed6ec9048088"
+    }
+  ]
+}
